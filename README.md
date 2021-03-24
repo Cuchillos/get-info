@@ -1,5 +1,5 @@
 # get-info
-Programa para obtener toda la información de la victima (el pc)
+Programa para obtener toda la información de la víctima (el pc)
 
 - Como usarlo:
 ```
